@@ -1,0 +1,6 @@
+D:\Study\Projects\RecommenderSystem\RecommenderSystem\bin\Debug\RecommenderSystem.exe.config
+D:\Study\Projects\RecommenderSystem\RecommenderSystem\bin\Debug\RecommenderSystem.exe
+D:\Study\Projects\RecommenderSystem\RecommenderSystem\bin\Debug\RecommenderSystem.pdb
+D:\Study\Projects\RecommenderSystem\RecommenderSystem\obj\Debug\RecommenderSystem.csprojResolveAssemblyReference.cache
+D:\Study\Projects\RecommenderSystem\RecommenderSystem\obj\Debug\RecommenderSystem.exe
+D:\Study\Projects\RecommenderSystem\RecommenderSystem\obj\Debug\RecommenderSystem.pdb
