@@ -1,3 +1,4 @@
 recommender-system
 ==================
-This program is writing with C#.
+Function: This program is about collaborative filtering algorithm.
+Language: This program is writing with C#.
